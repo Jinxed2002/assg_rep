@@ -1,0 +1,4 @@
+Pen		2	20
+Pencil		5	10
+Ruler		1	25
+Project_Papers		1	45
